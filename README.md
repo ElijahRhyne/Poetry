@@ -5,5 +5,5 @@ orange
 green
 blue
 violet
-deez are the colors of the rainbow
+deez are da colors of the rainbow
 add something
